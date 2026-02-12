@@ -1,5 +1,9 @@
 # Employee Project
 
+
+https://github.com/user-attachments/assets/fbfabfff-c82f-47a1-8cf8-74ffb94eaaab
+
+
 A simple Employee CRUD application built with Django + Django REST Framework, with a responsive GUI.
 
 ## Features
